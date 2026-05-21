@@ -243,7 +243,10 @@ button { font: inherit; color: inherit; background: none; border: 0; cursor: poi
   .sb-item .sb-ct { display: none; }
   .sb-toggle { display: none; }
   .sb-foot { display: none; }
-  .sb-theme-wrap { display: none; }
+  .sb-theme-wrap { display: flex; margin: 0; padding: 0; flex-shrink: 0; }
+  .sb-theme-wrap .sb-theme { margin: 0; padding: 2px; gap: 1px; }
+  .sb-theme-wrap .sb-theme button { padding: 6px 8px; font-size: 11px; gap: 4px; }
+  .sb-theme-wrap .sb-theme button svg { width: 11px; height: 11px; }
 }
 
 /* ─── Top bar ─── */

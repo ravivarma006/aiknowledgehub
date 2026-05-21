@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Nexus Directory — AI Knowledge Hub",
-  description: "A curated directory of 75+ tools across AI, data, backend, cloud, frontend, dev tools, design, and productivity.",
+  description: "A curated directory of 120+ tools across AI, Google AI, data, backend, cloud, frontend, dev tools, design, productivity, and skills & learning.",
 };
 
 export default function RootLayout({
