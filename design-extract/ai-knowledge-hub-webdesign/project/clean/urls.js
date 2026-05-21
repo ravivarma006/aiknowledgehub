@@ -1,0 +1,95 @@
+// Canonical source URL per tool. Used by the "Visit" link in the detail modal.
+window.TOOL_URLS = {
+  // AI & Automation
+  'cursor':         'https://cursor.com',
+  'claude-code':    'https://www.anthropic.com/claude-code',
+  'lovable':        'https://lovable.dev',
+  'stitch':         'https://stitch.withgoogle.com',
+  'antigravity':    'https://antigravity.google',
+  'vscode':         'https://code.visualstudio.com',
+  'copilot':        'https://github.com/features/copilot',
+  'langchain':      'https://www.langchain.com',
+  'langgraph':      'https://www.langchain.com/langgraph',
+  'huggingface':    'https://huggingface.co',
+  'vercel-ai':      'https://sdk.vercel.ai',
+  'azure-foundry':  'https://azure.microsoft.com/en-us/products/ai-foundry',
+  'mcp':            'https://modelcontextprotocol.io',
+  'postgres-mcp':   'https://github.com/modelcontextprotocol/servers/tree/main/src/postgres',
+  'powerbi-mcp':    'https://github.com/microsoft/powerbi-mcp',
+  'github-mcp':     'https://github.com/github/github-mcp-server',
+  'azure-mcp':      'https://github.com/Azure/azure-mcp',
+  'composio':       'https://composio.dev',
+
+  // Data & Analytics
+  'fabric':         'https://www.microsoft.com/en-us/microsoft-fabric',
+  'cube':           'https://cube.dev',
+  'azure-search':   'https://azure.microsoft.com/en-us/products/ai-services/ai-search',
+  'powerbi':        'https://www.microsoft.com/en-us/power-platform/products/power-bi',
+  'looker':         'https://cloud.google.com/looker',
+  'clarity':        'https://clarity.microsoft.com',
+  'ga':             'https://analytics.google.com',
+  'gtm':            'https://tagmanager.google.com',
+
+  // Backend & Infra
+  'n8n':            'https://n8n.io',
+  'supabase':       'https://supabase.com',
+  'firebase':       'https://firebase.google.com',
+  'firecrawl':      'https://www.firecrawl.dev',
+  'apify':          'https://apify.com',
+  'vercel':         'https://vercel.com',
+  'railway':        'https://railway.app',
+  'cloudflare':     'https://www.cloudflare.com',
+  'namecheap':      'https://www.namecheap.com',
+  'erpnext':        'https://erpnext.com',
+  'odoo':           'https://www.odoo.com',
+  'stripe':         'https://stripe.com',
+
+  // Cloud — Azure
+  'azure-app':      'https://azure.microsoft.com/en-us/products/app-service',
+  'azure-kv':       'https://azure.microsoft.com/en-us/products/key-vault',
+  'azure-df':       'https://azure.microsoft.com/en-us/products/data-factory',
+  'azure-apim':     'https://azure.microsoft.com/en-us/products/api-management',
+  'entra':          'https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id',
+
+  // Cloud — AWS
+  'aws-ec2':        'https://aws.amazon.com/ec2',
+  'aws-lambda':     'https://aws.amazon.com/lambda',
+  'aws-s3':         'https://aws.amazon.com/s3',
+  'aws-glue':       'https://aws.amazon.com/glue',
+  'aws-athena':     'https://aws.amazon.com/athena',
+
+  // Frontend & Mobile
+  'react':          'https://react.dev',
+  'nextjs':         'https://nextjs.org',
+  'rn':             'https://reactnative.dev',
+  'expo':           'https://expo.dev',
+  'flutter':        'https://flutter.dev',
+  'codemagic':      'https://codemagic.io',
+  'testflight':     'https://developer.apple.com/testflight',
+  'firebase-dist':  'https://firebase.google.com/products/app-distribution',
+  'gplay':          'https://play.google.com/console',
+
+  // Dev Tools & Testing
+  'terraform':      'https://www.terraform.io',
+  'bicep':          'https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep',
+  'azd':            'https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli',
+  'github':         'https://github.com',
+  'azure-devops':   'https://azure.microsoft.com/en-us/products/devops',
+  'playwright':     'https://playwright.dev',
+
+  // Design & Animation
+  'figma':          'https://www.figma.com',
+  'canva':          'https://www.canva.com',
+  'figjam':         'https://www.figma.com/figjam',
+  'miro':           'https://miro.com',
+  'flat-ui':        'https://flatuicolors.com',
+  'ionicons':       'https://ionic.io/ionicons',
+  'gsap':           'https://gsap.com',
+  'lottie':         'https://lottiefiles.com',
+  'motion':         'https://motion.dev',
+
+  // Productivity
+  'notion':         'https://www.notion.so',
+  'loop':           'https://www.microsoft.com/en-us/microsoft-loop',
+  'ticktick':       'https://ticktick.com',
+};
