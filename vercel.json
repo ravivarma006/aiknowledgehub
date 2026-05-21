@@ -1,6 +1,3 @@
 {
-  "framework": null,
-  "outputDirectory": "design-extract/ai-knowledge-hub-webdesign/project",
-  "buildCommand": null,
-  "installCommand": null
+  "framework": "nextjs"
 }
